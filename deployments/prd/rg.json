@@ -1,0 +1,9 @@
+{
+    "subscriptionId": "7e6de215-ae9e-4ef4-98db-6cbf4f027198",
+    "subscriptionName": "sub-swone-01",
+    "name": "rgr-prd-githubaction-01",
+    "location": "westeurope",
+    "tags": {
+        "Source": "Github Action"
+    }
+}
